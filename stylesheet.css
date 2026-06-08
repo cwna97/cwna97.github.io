@@ -134,6 +134,13 @@ span.highlight {
   background-color: #ffffd0;
 }
 
+span.paper_highlight {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  background-color: #ffffd0;
+}
+
 .colored-box {
     color: black;
     padding: 20px;
